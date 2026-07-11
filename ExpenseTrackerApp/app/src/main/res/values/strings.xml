@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_budget">Budgets</string>
+    <string name="nav_reports">Reports</string>
+</resources>
